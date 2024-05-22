@@ -1,29 +1,18 @@
-- 👋 Hi, I’m @ArpitTiwari-Code
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-ArpitTiwari-Code/ArpitTiwari-Code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1 align="center">Hi 👋, I'm Abhinav Tiwari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Arpit Tiwari</h1>
+<h3 align="center">A passionate to python from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavtiwari-at&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavtiwari-at" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavtiwari-at" alt="abhinavtiwari-at" /></a> </p>
 
-- 🌱 I’m currently learning **Core Java,Spring & Spring Boot**
+- 🌱 I’m currently learning **Python & Oops**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Python**
 
-- 📫 How to reach me **abhinavtiwari3056@gmail.com**
+- 📫 How to reach me **arpittiwari4559@gmail.com**
 
-- 📄 Know about my experiences 
+- 📄 Know about my experiences
 
 - ⚡ Fun fact **I love bike riding & coding**
 
