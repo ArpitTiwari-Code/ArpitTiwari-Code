@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+[![MasterHead](https://th.bing.com/th?id=OIP.XtlXmrujgxcWTyVw8iThMgHaE7&w=306&h=204&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2)](https://ArpitTiwari-code.in)
 
 <h1 align="center">Hi 👋, I'm Arpit Tiwari</h1>
 <h3 align="center">A passionate python developer from India</h3>
