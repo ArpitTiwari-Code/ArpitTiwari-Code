@@ -1,5 +1,3 @@
-[![MasterHead](https://th.bing.com/th?id=OIP.XtlXmrujgxcWTyVw8iThMgHaE7&w=1000&h=204&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2)](https://ArpitTiwari-code.in)
-
 <h1 align="center">Hi 👋, I'm Arpit Tiwari</h1>
 <h3 align="center">A passionate python developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
