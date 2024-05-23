@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpittiwari-code" alt="arpittiwari-code" /></a> </p>
 
-- 🔭 I’m currently working on **PYTHON, OOP's**
+- 🔭 I’m currently working on **PYTHON || OOP's**
 
-- 🌱 I’m currently learning **PYTHON, OOP's**
+- 🌱 I’m currently learning **PYTHON || OOP's**
 
 - 🤝 I’m looking for help with **Python Devloper**
 
