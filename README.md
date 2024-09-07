@@ -17,7 +17,7 @@
 ![](https://github-trophies.vercel.app/?username=ArpitTIwari-Code&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-- 🌱 I’m currently learning **PYTHON || OOP's**
+- 🌱 I’m currently learning **PYTHON || OOP's || DATA ANALYSIS**
 
 - 🤝 I’m looking for help with **Python Devloper**
 
