@@ -25,7 +25,6 @@
 
 - 📫 How to reach me **arpittiwari4559@gmail.com**
 
-- ⚡ Fun fact **I am in class 12th**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
